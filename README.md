@@ -1,8 +1,8 @@
 # KIDSWAY
 
-Dení Morales - Product Owner
-Scarlett Eligio - UX Researcher
-Karina González - Designer 
+* Dení Morales - Product Owner
+* Scarlett Eligio - UX Researcher
+* Karina González - Designer 
 
 
 ## Definición del problema

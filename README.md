@@ -30,13 +30,13 @@ Detectamos los *pain points* y analizamos en cual podríamos enfocarnos para ofr
 
 * **Realizamos un mapa de empatía**
 
-![Mapa de empatía](assets/images/IMG-20180216-WA0001)
+![Mapa de empatía](./assets/images/IMG-20180216-WA0001)
 
 * **Relizamos un cuestionario mediante Google Forms para validar nuestra idea**
 
 Dentro de los insights más importantes detectamos una percepción de inseguridad general con respecto a cómo viajan niños y bebés actualmente y que la gran mayoría de las madres estarían dispuestas a pagar por mejorar dichas condiciones.
 
-![Insights](assets/images/KidsWay(1).png)
+![Insights](./assets/images/KidsWay(1).png)
 
 * **Redefinimos el problema**
 
@@ -68,7 +68,7 @@ Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, ins
     
     3.- A partir de la comunidad que se forma a partir de este debate, generar el nicho para instroducir nuestra solución para niños mayores de 2 años, aptos para usar nuestro dispositivo de seguridad.
 
-![Landing page Abrazo Seguro](assets/images/screencapture-abrazoseguro-pagedemo-co-2018-03-09-21_41_46)
+![Landing page Abrazo Seguro](./assets/images/screencapture-abrazoseguro-pagedemo-co-2018-03-09-21_41_46)
 
 [Abrazo Seguro](http://abrazoseguro.pagedemo.co/)
 
@@ -99,25 +99,25 @@ Posteriormente, aprovechando el awareness y boca a boca que se genere a partir d
 
 
 # La Presentación
-![Portada](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-0)
+![Portada](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-0)
 
-![Enunciado del problema](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-1)
+![Enunciado del problema](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-1)
 
-![Insights](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-2)
+![Insights](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-2)
 
-![Necesidades del usuario](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-3)
+![Necesidades del usuario](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-3)
 
-![Objetivos de negocio](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-4)
+![Objetivos de negocio](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-4)
 
-![Nuestra solucion](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-5)
+![Nuestra solucion](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-5)
 
-![Nuestra estrategia](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-6)
+![Nuestra estrategia](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-6)
 
-![Mapa de calor de primera version de landing page](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-7)
+![Mapa de calor de primera version de landing page](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-7)
 
-![Landing page segunda version 1](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-8)
+![Landing page segunda version 1](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-8)
 
-![Landing page segunda version 2](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-9)
+![Landing page segunda version 2](./assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-9)
 
 ![Cierre](assets/presentacion/7682ac8ced054e14d956cc1cf60efe82-10)
 

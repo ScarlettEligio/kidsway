@@ -26,7 +26,7 @@ Nos enfocamos en la tercera propuesta, pues fue a la que le vimos mayor potencia
 
 * **Analizamos el journey de usuario** 
 
-Detectamos los *pain points* y analizamos en cual podríamos enfocarnos para ofrecer una solución. En principio pensamos en enfocarnos en entretenimiento a bordo para niños, pero más tarde nos dicmos cuenta de que el tema de la seguridad era prioritario para nuestras usuarias (la mayoría fueron mujeres).
+Detectamos los *pain points* y analizamos en cual podríamos enfocarnos para ofrecer una solución. En principio pensamos en enfocarnos en entretenimiento a bordo para niños, pero se decidió que la seguridad era prioritario para nuestras usuarias (la mayoría fueron mujeres).
 
 * **Realizamos un mapa de empatía**
 
@@ -34,7 +34,9 @@ Detectamos los *pain points* y analizamos en cual podríamos enfocarnos para ofr
 
 * **Relizamos un cuestionario mediante Google Forms para validar nuestra idea**
 
-Dentro de los insights más importantes detectamos una percepción de inseguridad general con respecto a cómo viajan niños y bebés actualmente y que la gran mayoría de las madres estarían dispuestas a pagar por mejorar dichas condiciones.
+Los insights más importantes detectados son: 
+* Percepción de inseguridad respecto a las medidas preventivas actuales en viajes de niños y bebés.
+* Disposición a pagar montos adicionales para optimizar prevención. 
 
 ![Insights](./assets/images/KidsWay(1).png)
 

@@ -87,9 +87,9 @@ Decidimos enfocarnos en ofrecer asientos y adaptadores para bebés y niños, ins
     
 # Nuestra Solución: Kidsway
 
-Ofrecer un producto cómodo, ligero, seguro y fácil de usar; que sea económico a la renta pero que a la venta represente una buena inversión.
+Ofrecer un producto cómodo, ligero, seguro y fácil de usar; accesible para renta pero que represente una inversión considerable en caso de compra.
 
-Nos interesa tener los productos disponibles en una tienda física en las estaciones de autobuses disponibles para renta y venta. Para nosotras es muy importante que el producto sea conocido en un inicio de manera física por las madres y padres de familia, que lo vean, lo toquen e interactúen con él, que puedan percibir e imaginar lo seguros y cómodos que podrán viajar sus hijos y lo importante que será contar con este dispositivo al momento de ocurrir un siniestro. 
+Nos interesa tener los productos disponibles en un kiosko ubicado las estaciones de autobuses disponibles para renta y venta. Para nosotras es muy importante que el producto sea conocido en un inicio de manera física por las madres y padres de familia, que lo vean, lo toquen e interactúen con él, que puedan percibir e imaginar lo seguros y cómodos que podrán viajar sus hijos y lo importante que será contar con este dispositivo al momento de ocurrir un siniestro. 
 
 Posteriormente, aprovechando el awareness y boca a boca que se genere a partir de esta experiencia, nos plantearíamos lanzar una plataforma digital para la venta de este dispositivo.
 
